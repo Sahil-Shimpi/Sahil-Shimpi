@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning... umm... a lot of stuff actually! DSA, OS, CN, SQL, ML, DL, etc. to name a few! 😩 
 - 👯 I’m looking to collaborate with other ML enthusiasts or student community leaders.
 - 🥅 2022 Goals: Be more organize... about everything :p
-- ⚡ Fun fact: I'm a part of the elite group of consisting only 10% of the people in the entire world. Well, I'm left handed... And yes, like most of the lefties out there, I absolutely hate scissors too ✂️😤
+- ⚡ Fun fact: I'm a part of the elite group consisting of only 10% of the people in the entire world. Well, I'm left handed... And yes, like most of the lefties out there, I absolutely hate scissors too ✂️😤
 - 🥷🏻 Check out my progress at [CodeStudio](https://www.codingninjas.com/codestudio/profile/f274cf99-ae58-40ed-9fcc-9bae5d3628f4) 📈
 - 🤝🏻 Connect with me: [Sahil's Mail](sahilshimpi05@gmail.com) 📧
 
