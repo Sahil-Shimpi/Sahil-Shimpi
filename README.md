@@ -39,7 +39,7 @@
 
 <details>
   <summary>:zap: Sahil's GitHub Stats</summary>
-
+  <br />
   <img align="left" alt="Sahil's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Sahil-Shimpi&theme=aura&show_icons=true" />
 </details>
 
