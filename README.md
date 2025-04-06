@@ -2,7 +2,7 @@
 ###### Welcome to my profile :-)
 ### I'm a Student, Programmer, Machine Learning Enthusiast and a student community leader!!
 
-- 🌱 I’m currently learning... umm... a lot of stuff actually! DSA, OS, CN, SQL, ML, DL, etc. to name a few! 😩 
+- 🌱 I’m currently learning... umm... a lot of stuff actually! DSA, OS, CN, SQL, ML, DL, etc. to name a few!  
 - 👯 I’m looking to collaborate with other ML enthusiasts or student community leaders.
 - 🥅 2024 Goals: Be more organized... at almost everything :p
 - 🥷🏻 Check out my progress at [CodeStudio](https://www.codingninjas.com/codestudio/profile/f274cf99-ae58-40ed-9fcc-9bae5d3628f4) 📈
