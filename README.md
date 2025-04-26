@@ -1,47 +1,58 @@
-## Hola, I'm Sahil! 👋 
-###### Welcome to my profile :-)
-### I'm a Student, Programmer, Machine Learning Enthusiast and a student community leader!!
+# 👋 Hi, I'm Sahil Shimpi
 
-- 🌱 I’m currently learning... umm... a lot of stuff actually! DSA, OS, CN, SQL, ML, DL, etc. to name a few!  
-- 👯 I’m looking to collaborate with other ML enthusiasts or student community leaders.
-- 🥅 2024 Goals: Be more organized... at almost everything :p
-- 🥷🏻 Check out my progress at [CodeStudio](https://www.codingninjas.com/codestudio/profile/f274cf99-ae58-40ed-9fcc-9bae5d3628f4) 📈
-- 🖇️ Check out my LinkedIn profile: [Sahil's LinkedIn][linkedin]!
-- 🤝🏻 Connect with me: [Sahil's Mail](sahilshimpi05@gmail.com) 📧
-- 👨🏻‍💻 Know more about our community: [CodeChef SCOE Chapter](http://codechefscoe.in/)
-- ⚡ Fun fact: I'm a part of the elite group consisting of only 10% of the people in the entire world. Well, I'm left handed... And yes, like most of the lefties out there, I absolutely hate scissors too ✂️😤
-
-### Languages and Tools:
-
-<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JAVA" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" alt="jupyter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" style="padding-right:10px;" />
-<img align="left" alt="NumPy" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Pycharm" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Canva" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Adobe XD" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="Azure" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" style="padding-right:10px;" />
-<img align="left" alt="VS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="VS Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-
-<br />
-<br />
+**MS in Information Management '26 | Consultant @ Business Intelligence Group (UIUC) | Data Enthusiast | Builder Mindset | Open to Summer '25 Internships**
 
 ---
 
-<details>
-  <summary>:zap: Sahil's GitHub Stats</summary>
-  <br />
-  <img align="left" alt="Sahil's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Sahil-Shimpi&theme=aura&show_icons=true" />
-</details>
+## 🧠 About Me
 
+I'm a **data-driven professional** who believes in building things that matter.  
+Currently pursuing my **Master's at the University of Illinois Urbana-Champaign (UIUC)**, I’m exploring the beautiful intersections of **Business Analytics**, **Data Engineering**, and **Consulting**.
 
-[linkedin]: https://www.linkedin.com/in/sahilshimpi/
+My journey so far has been about **learning fast, building in public**, and **helping others level up** — whether it’s designing AI-powered tools, leading tech communities, or architecting smarter data solutions.
+
+I like my data structured, my pipelines lean, and my dashboards sharp.  
+🚀 Mission: **Solve real problems, share what I learn, and grow with the community.**
+
+---
+
+## 💼 What I’m Working On
+- **Technology & Data Consultant @ Business Intelligence Group (UIUC)**  
+  - Building an AI-powered document analysis tool for **airline pilots** (CBAs and scheduling regulations).
+  - Exploring **Retrieval-Augmented Generation (RAG)** technologies for smarter document interpretation.
+  - Optimizing **ETL pipelines** and **backend architectures** with open-source tooling.
+
+- **Personal Projects**  
+  - Automating boring tasks with **Python**, **Streamlit**, and **SQL**.
+  - Experimenting with **Microsoft Fabric**, **Tableau Prep**, and **RAG pipelines**.
+
+---
+
+## 🛠️ Skills Snapshot
+
+- **Cloud & Backend:** AWS, Azure, Streamlit, Flask  
+- **Data Engineering:** Pandas, SQL, PySpark, Tableau Prep, Microsoft Fabric  
+- **Visualization & Analytics:** Power BI, Tableau, Excel Dashboards  
+- **Programming Languages:** Python, SQL, Bash/Shell  
+- **RAG & AI Systems:** Retrieval-Augmented Generation (LangChain, FAISS), Claude 3 Opus
+
+---
+
+## 🏆 Highlights
+
+- 📈 **18+ Events Led** as Events Lead at CodeChef SCOE Chapter
+- 🎯 **AI Legal Document Retrieval Tool** project with RAG optimization
+- 🥇 Certified in **Machine Learning Using Python**, **Intro to Tableau Prep**, **Azure Fundamentals**, and more
+- 🌎 Multilingual: Fluent in English, Hindi, Marathi | Elementary Spanish Speaker
+
+---
+
+## 📫 Let’s Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sahilshimpi/)
+- 📧 Email: sahilshimpi05@gmail.com | sshimpi2@illinois.edu
+- 🗺️ Currently based in Urbana-Champaign | Open to Remote & Global Opportunities
+
+---
+
+> *“Data tells a story — and I intend to be its best translator.”*
