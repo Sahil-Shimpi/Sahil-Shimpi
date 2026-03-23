@@ -52,6 +52,6 @@ Running Hootsuite analytics, content operations, newsletter, and blog production
 
 🔗 [LinkedIn](https://www.linkedin.com/in/sahilshimpi/)
 
-📧 sahilshimpi05@gmail.com · sshimpi2@illinois.edu
+📍 Open to relocation
 
-📍 Champaign, IL → Open to relocation
+📧 sahilshimpi@outlook.com · sshimpi2@illinois.edu
