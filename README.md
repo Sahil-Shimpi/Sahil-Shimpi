@@ -16,7 +16,7 @@ Finishing my MS in Information Management at UIUC this May. Before that, BE in C
 
 🔹 **Senior Technology Manager @ Business Intelligence Group (UIUC)**
 
-Overseeing 11 teams across 6 projects, 5 clients, and 60 consultants. Each engagement runs 14 weeks. The work covers BI scoping, dashboard builds, and data workflow redesigns. Scoping the technical side is usually straightforward. Getting a resistant nonprofit staff member to trust a new system nobody asked for? Different story. That part doesn't come from a textbook.
+Overseeing 11 teams across 6 projects, 5 clients, and 60 consultants. Each engagement runs 14 weeks. The work covers BI scoping, dashboard builds, and data workflow redesigns. Scoping the technical side is usually straightforward. Getting a resistant client to trust a new system nobody asked for? Different story. That part doesn't come from a textbook.
 
 🔹 **Marketing Analytics & Operations @ SMMC**
 
