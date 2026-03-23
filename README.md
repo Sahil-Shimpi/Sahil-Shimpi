@@ -18,7 +18,7 @@ Finishing my MS in Information Management at UIUC this May. Before that, BE in C
 Overseeing 11 teams across 6 projects, 5 clients, and 60 consultants. Each engagement runs 14 weeks. The work covers BI scoping, dashboard builds, and data workflow redesigns. Scoping the technical side is usually straightforward. Getting a resistant nonprofit staff member to trust a new system nobody asked for? Different story. That part doesn't come from a textbook.
 
 🔹 **Marketing Analytics & Operations @ SMMC**
-Running Hootsuite analytics, content operations, newsletter and blog production, and keeping outbound material on the right side of CFPB/FTC rules. Less glamorous than it sounds, but someone has to read the compliance docs.
+Running Hootsuite analytics, content operations, newsletter and blog production, and keeping outbound material on the right side of CFPB/FTC rules. It's the kind of work where attention to detail matters more than anything flashy.
 
 ---
 
