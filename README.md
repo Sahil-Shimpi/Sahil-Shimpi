@@ -51,5 +51,7 @@ Running Hootsuite analytics, content operations, newsletter, and blog production
 ## 📫 Let's Talk
 
 🔗 [LinkedIn](https://www.linkedin.com/in/sahilshimpi/)
+
 📧 sahilshimpi05@gmail.com · sshimpi2@illinois.edu
-📍 Champaign, IL → Open to relocation · H-1B sponsorship needed
+
+📍 Champaign, IL → Open to relocation
