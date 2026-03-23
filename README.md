@@ -8,7 +8,7 @@
 
 I figure out what teams should be measuring and then build the reports that answer the actual question. Not the vanity metric version. The one that changes how someone makes a decision.
 
-Finishing my MS in Information Management at UIUC this May. Before that, BE in Computer Engineering from Savitribai Phule Pune University, India (3.94 GPA). Originally from Kalyan, Maharashtra. I cook a lot of dal fry and jeera rice, I follow IPL more than any reasonable person should, and I build things on the side when something bugs me enough to open a terminal.
+Finishing my MS in Information Management at UIUC this May. Before that, BE in Computer Engineering from Savitribai Phule Pune University, India (3.94 GPA). Originally from Kalyan, Maharashtra, India. I cook a lot of Indian food, I follow Cricket more than any reasonable person should, and I build things on the side when something bugs me enough to open a terminal.
 
 ---
 
@@ -18,7 +18,7 @@ Finishing my MS in Information Management at UIUC this May. Before that, BE in C
 Overseeing 11 teams across 6 projects, 5 clients, and 60 consultants. Each engagement runs 14 weeks. The work covers BI scoping, dashboard builds, and data workflow redesigns. Scoping the technical side is usually straightforward. Getting a resistant nonprofit staff member to trust a new system nobody asked for? Different story. That part doesn't come from a textbook.
 
 🔹 **Marketing Analytics & Operations @ SMMC**
-Running Hootsuite analytics, content operations, newsletter and blog production, and keeping outbound material on the right side of CFPB/FTC rules. It's the kind of work where attention to detail matters more than anything flashy.
+Running Hootsuite analytics, content operations, newsletter, and blog production, and keeping outbound material on the right side of CFPB/FTC rules. It's the kind of work where attention to detail matters more than anything flashy.
 
 ---
 
