@@ -1,58 +1,47 @@
-# 👋 Hi, I'm Sahil Shimpi
+# 👋 Hi, I'm Sahil
 
-**MS in Information Management '26 | Consultant @ Business Intelligence Group (UIUC) | Data Enthusiast | Builder Mindset | Open to Summer '25 Internships**
+**MSIM '26 @ UIUC iSchool | Senior Technology Manager @ BIG | 3x Microsoft Certified | Looking for Data Analyst / BI Analyst roles**
 
 ---
 
 ## 🧠 About Me
 
-I'm a **data-driven professional** who believes in building things that matter.  
-Currently pursuing my **Master's at the University of Illinois Urbana-Champaign (UIUC)**, I’m exploring the beautiful intersections of **Business Analytics**, **Data Engineering**, and **Consulting**.
+I figure out what teams should be measuring and then build the reports that answer the actual question. Not the vanity metric version. The one that changes how someone makes a decision.
 
-My journey so far has been about **learning fast, building in public**, and **helping others level up** — whether it’s designing AI-powered tools, leading tech communities, or architecting smarter data solutions.
-
-I like my data structured, my pipelines lean, and my dashboards sharp.  
-🚀 Mission: **Solve real problems, share what I learn, and grow with the community.**
+Finishing my MS in Information Management at UIUC this May. Before that, BE in Computer Engineering from Savitribai Phule Pune University, India (3.94 GPA). Originally from Kalyan, Maharashtra. I cook a lot of dal fry and jeera rice, I follow IPL more than any reasonable person should, and I build things on the side when something bugs me enough to open a terminal.
 
 ---
 
-## 💼 What I’m Working On
-- **Technology & Data Consultant @ Business Intelligence Group (UIUC)**  
-  - Building an AI-powered document analysis tool for **airline pilots** (CBAs and scheduling regulations).
-  - Exploring **Retrieval-Augmented Generation (RAG)** technologies for smarter document interpretation.
-  - Optimizing **ETL pipelines** and **backend architectures** with open-source tooling.
+## 💼 Right Now
 
-- **Personal Projects**  
-  - Automating boring tasks with **Python**, **Streamlit**, and **SQL**.
-  - Experimenting with **Microsoft Fabric**, **Tableau Prep**, and **RAG pipelines**.
+🔹 **Senior Technology Manager @ Business Intelligence Group (UIUC)**
+Overseeing 11 teams across 6 projects, 5 clients, and 60 consultants. Each engagement runs 14 weeks. The work covers BI scoping, dashboard builds, and data workflow redesigns. Scoping the technical side is usually straightforward. Getting a resistant nonprofit staff member to trust a new system nobody asked for? Different story. That part doesn't come from a textbook.
+
+🔹 **Marketing Analytics & Operations @ SMMC**
+Running Hootsuite analytics, content operations, newsletter and blog production, and keeping outbound material on the right side of CFPB/FTC rules. Less glamorous than it sounds, but someone has to read the compliance docs.
 
 ---
 
-## 🛠️ Skills Snapshot
+## 🛠️ What I Work With
 
-- **Cloud & Backend:** AWS, Azure, Streamlit, Flask  
-- **Data Engineering:** Pandas, SQL, PySpark, Tableau Prep, Microsoft Fabric  
-- **Visualization & Analytics:** Power BI, Tableau, Excel Dashboards  
-- **Programming Languages:** Python, SQL, Bash/Shell  
-- **RAG & AI Systems:** Retrieval-Augmented Generation (LangChain, FAISS), Claude 3 Opus
-
----
-
-## 🏆 Highlights
-
-- 📈 **18+ Events Led** as Events Lead at CodeChef SCOE Chapter
-- 🎯 **AI Legal Document Retrieval Tool** project with RAG optimization
-- 🥇 Certified in **Machine Learning Using Python**, **Intro to Tableau Prep**, **Azure Fundamentals**, and more
-- 🌎 Multilingual: Fluent in English, Hindi, Marathi | Elementary Spanish Speaker
+**Analytics & BI:** SQL · Power BI · Tableau · Excel · Python · R · DAX · Data Modeling
+**Cloud & Platforms:** Microsoft Azure · Microsoft Fabric · ETL
+**AI & LLMs:** Prompt Engineering · OpenAI API · RAG · FAISS · LangChain
+**Building with AI:** Claude Code · Cursor · Replit
+**Program Ops:** Agile · SmartSheet · Requirements Gathering · Stakeholder Management
 
 ---
 
-## 📫 Let’s Connect
+## 📜 Certifications
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sahilshimpi/)
-- 📧 Email: sahilshimpi05@gmail.com | sshimpi2@illinois.edu
-- 🗺️ Currently based in Urbana-Champaign | Open to Remote & Global Opportunities
+✅ Microsoft Certified: Fabric Analytics Engineer Associate
+✅ Microsoft Certified: Power BI Data Analyst Associate
+✅ Microsoft Certified: Azure Fundamentals (AZ-900)
 
 ---
 
-> *“Data tells a story — and I intend to be its best translator.”*
+## 📫 Let's Talk
+
+🔗 [LinkedIn](https://www.linkedin.com/in/sahilshimpi/)
+📧 sahilshimpi05@gmail.com · sshimpi2@illinois.edu
+📍 Champaign, IL → Open to relocation · H-1B sponsorship needed
