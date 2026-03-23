@@ -8,7 +8,7 @@
 
 I figure out what teams should be measuring and then build the reports that answer the actual question. Not the vanity metric version. The one that changes how someone makes a decision.
 
-Finishing my MS in Information Management at UIUC this May. Before that, BE in Computer Engineering from Savitribai Phule Pune University, India (3.94 GPA). Originally from Kalyan, Maharashtra, India. I cook a lot of Indian food, I follow Cricket more than any reasonable person should, and I build things on the side when something bugs me enough to open a terminal.
+Finishing my MS in Information Management at UIUC this May. Before that, BE in Computer Engineering from Savitribai Phule Pune University, India (3.94 GPA). Originally from Kalyan, Maharashtra, India. I cook a lot of Indian food, I follow cricket more than any reasonable person should, and I build things on the side when something bugs me enough to open a terminal.
 
 ---
 
