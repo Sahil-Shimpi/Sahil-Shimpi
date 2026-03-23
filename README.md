@@ -24,21 +24,7 @@ Running Hootsuite analytics, content operations, newsletter, and blog production
 
 ---
 
-## 🛠️ What I Work With
-
-**Analytics & BI:** SQL · Power BI · Tableau · Excel · Python · R · DAX · Data Modeling
-
-**Cloud & Platforms:** Microsoft Azure · Microsoft Fabric · ETL
-
-**AI & LLMs:** Prompt Engineering · OpenAI API · RAG · FAISS · LangChain
-
-**Building with AI:** Claude Code · Cursor · Replit
-
-**Program Ops:** Agile · SmartSheet · Requirements Gathering · Stakeholder Management
-
----
-
-## 🧰 Tech Stack
+## 🧰 What I Work With
  
 ### Analytics & BI
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
