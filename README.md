@@ -41,7 +41,9 @@ Running Hootsuite analytics, content operations, newsletter, and blog production
 ## 📜 Certifications
 
 ✅ Microsoft Certified: Fabric Analytics Engineer Associate
+
 ✅ Microsoft Certified: Power BI Data Analyst Associate
+
 ✅ Microsoft Certified: Azure Fundamentals (AZ-900)
 
 ---
